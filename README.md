@@ -24,7 +24,7 @@ These programming languages collaboratively contribute to the seamless and dynam
 ##### Definitions
 ##### Parts of speech
 ##### Synonyms
-##### Antonyms
+##### phonetics
 
 ### Paragraph Analysis:
 ##### Character count
