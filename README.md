@@ -33,9 +33,9 @@ These programming languages collaboratively contribute to the seamless and dynam
 ##### Paragraph count
 ##### Whitespace count
 ##### Punctuation count
-##### User-friendly Interface:
 
-#### Two main sections for analyzing words and paragraphs:
+### User-friendly Interface:
+#### Two main sections for analyzing words and paragraphs
 ##### Toggle between sections with ease
 ##### Clear and intuitive design
 
