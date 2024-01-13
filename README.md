@@ -1,3 +1,5 @@
+Date:14/01/2024
+
 # Text-Analyzer
 ## Introduction:
 
@@ -37,12 +39,12 @@ The Text Analyzer Web App is primarily built using the following technologies:
 ##### Clear and intuitive design
 
 ## Usage
-#### Open the web app in a browser.
-#### Choose the type of analysis you want (Word Input or Paragraph) by clicking on the respective headings.
-#### Enter text in the provided text area.
-#### For Word Input, click the "Process Word" button to see detailed analysis and definitions.
-#### For Paragraph Analysis, observe character, word, sentence, and paragraph counts.
-#### The app fetches definitions and other information using the Dictionary API.
+##### Open the web app in a browser.
+##### Choose the type of analysis you want (Word Input or Paragraph) by clicking on the respective headings.
+##### Enter text in the provided text area.
+##### For Word Input, click the "Process Word" button to see detailed analysis and definitions.
+##### For Paragraph Analysis, observe character, word, sentence, and paragraph counts.
+##### The app fetches definitions and other information using the Dictionary API.
 
 ## How to Run
 #### Open the index.html file in a modern web browser.
