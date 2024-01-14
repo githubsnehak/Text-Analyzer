@@ -48,7 +48,7 @@ These programming languages collaboratively contribute to the seamless and dynam
 ##### The app fetches definitions and other information using the Dictionary API.
 
 ## How to Run
-#### Open the index.html file in a modern web browser.
+#### Open the https://text-analyzer-roan.vercel.app/ file in a modern web browser.
 #### Ensure an active internet connection for fetching data from the Dictionary API.
 #### Explore the Word Input and Paragraph Analysis sections for detailed insights.
 
